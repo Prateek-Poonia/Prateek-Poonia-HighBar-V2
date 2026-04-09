@@ -1,4 +1,4 @@
-# Kasparro Agentic FB Analyst – Automated Ads Insights & Creative Generator
+# Agentic FB Analyst – Automated Ads Insights & Creative Generator
 
 An agentic AI system that analyzes Facebook Ads performance, identifies why key metrics (ROAS, CTR, CPA) changed, and generates optimized creative recommendations automatically.
 
